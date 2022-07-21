@@ -1,4 +1,6 @@
 # QuanLyThuVien
 
-#Bài tập học phần: Thực hành cơ sở dữ liệu. (Chương trình làm thêm)
+#Bài tập học phần: Thực hành cơ sở dữ liệu. 
+(Chương trình làm thêm)
+
 #Điểm học phần 9.3đ
