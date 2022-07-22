@@ -7,3 +7,5 @@
 #Báo cáo cuối kỳ: Xây dựng CSDL cho Thư Viện (Khuyến khích xây dựng chương trình)
 
 #Điểm học phần 9.2đ
+
+![This is an image](https://github.com/KayStar645/QuanLyThuVien/blob/main/QL_ThuVien.pdf)
