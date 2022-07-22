@@ -8,4 +8,4 @@
 
 #Điểm học phần 9.2đ
 
-[Contribution guidelines for this project](QL_ThuVien.pdf)
+[Contribution guidelines for this project](/QL_ThuVien.pdf)
