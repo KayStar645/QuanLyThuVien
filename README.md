@@ -8,4 +8,4 @@
 
 #Điểm học phần 9.2đ
 
-![This is an image](https://github.com/KayStar645/QuanLyThuVien/blob/main/QL_ThuVien.pdf)
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
