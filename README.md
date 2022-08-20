@@ -9,3 +9,4 @@
 #Điểm học phần 9.2đ
 
 ![Mô hình thực thể kết hợp](/QL_ThuVien.pdf)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
