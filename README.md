@@ -8,7 +8,7 @@
 
 #Điểm học phần 9.2đ
 
-![Mô hình thực thể kết hợp](/QL_ThuVien)
+*![Mô hình thực thể kết hợp](/QL_ThuVien.pdf)*
 
 ![Giao diện quản lý sách](https://github.com/KayStar645/QuanLyThuVien/blob/main/QL_Sach.png?raw=true)
 
