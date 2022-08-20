@@ -8,7 +8,10 @@
 
 #Điểm học phần 9.2đ
 
-![Mô hình thực thể kết hợp](/QL_ThuVien.pdf)
+[Mô hình thực thể kết hợp](/QL_ThuVien.pdf)
 
+![Giao diện quản lý sách](https://github.com/KayStar645/QuanLyThuVien/blob/main/QL_Sach.png?raw=true)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Giao diện quản lý độc giả](https://github.com/KayStar645/QuanLyThuVien/blob/main/QL_DocGia.png?raw=true)
+
+![Giao diện mượn sách](https://github.com/KayStar645/QuanLyThuVien/blob/main/DK_MuonS.png?raw=true)
