@@ -8,7 +8,7 @@
 
 #Điểm học phần 9.2đ
 
-![Mô hình thực thể kết hợp](blob:null/841717ed-0c3a-461d-bde1-c424cfc2c3c2)
+![Mô hình thực thể kết hợp](/QL_ThuVien)
 
 ![Giao diện quản lý sách](https://github.com/KayStar645/QuanLyThuVien/blob/main/QL_Sach.png?raw=true)
 
