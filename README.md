@@ -8,4 +8,4 @@
 
 #Điểm học phần 9.2đ
 
-[Mô hình thực thể kết hợp](/QL_ThuVien.pdf)
+![Mô hình thực thể kết hợp](/QL_ThuVien.pdf)
